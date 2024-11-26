@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\AlgoritmiandStructureDannih\\Progects\\Laba4\\OptimizingOperations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43279C2C-2660-491B-8329-CD0DF0A54631}|OptimizingOperations\\OptimizingOperations.csproj|c:\\algoritmiandstructuredannih\\progects\\laba4\\optimizingoperations\\optimizingoperations\\examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43279C2C-2660-491B-8329-CD0DF0A54631}|OptimizingOperations\\OptimizingOperations.csproj|solutionrelative:optimizingoperations\\examples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43279C2C-2660-491B-8329-CD0DF0A54631}|OptimizingOperations\\OptimizingOperations.csproj|c:\\algoritmiandstructuredannih\\progects\\laba4\\optimizingoperations\\optimizingoperations\\examples\\orderedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43279C2C-2660-491B-8329-CD0DF0A54631}|OptimizingOperations\\OptimizingOperations.csproj|solutionrelative:optimizingoperations\\examples\\orderedarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43279C2C-2660-491B-8329-CD0DF0A54631}|OptimizingOperations\\OptimizingOperations.csproj|c:\\algoritmiandstructuredannih\\progects\\laba4\\optimizingoperations\\optimizingoperations\\examples\\commonarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43279C2C-2660-491B-8329-CD0DF0A54631}|OptimizingOperations\\OptimizingOperations.csproj|solutionrelative:optimizingoperations\\examples\\commonarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43279C2C-2660-491B-8329-CD0DF0A54631}|OptimizingOperations\\OptimizingOperations.csproj|c:\\algoritmiandstructuredannih\\progects\\laba4\\optimizingoperations\\optimizingoperations\\examples\\parentlongarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43279C2C-2660-491B-8329-CD0DF0A54631}|OptimizingOperations\\OptimizingOperations.csproj|solutionrelative:optimizingoperations\\examples\\parentlongarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43279C2C-2660-491B-8329-CD0DF0A54631}|OptimizingOperations\\OptimizingOperations.csproj|c:\\algoritmiandstructuredannih\\progects\\laba4\\optimizingoperations\\optimizingoperations\\examples\\arrayinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43279C2C-2660-491B-8329-CD0DF0A54631}|OptimizingOperations\\OptimizingOperations.csproj|solutionrelative:optimizingoperations\\examples\\arrayinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CommonArray.cs",
+              "DocumentMoniker": "C:\\AlgoritmiandStructureDannih\\Progects\\Laba4\\OptimizingOperations\\OptimizingOperations\\Examples\\CommonArray.cs",
+              "RelativeDocumentMoniker": "OptimizingOperations\\Examples\\CommonArray.cs",
+              "ToolTip": "C:\\AlgoritmiandStructureDannih\\Progects\\Laba4\\OptimizingOperations\\OptimizingOperations\\Examples\\CommonArray.cs",
+              "RelativeToolTip": "OptimizingOperations\\Examples\\CommonArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:30:18.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderedArray.cs",
+              "DocumentMoniker": "C:\\AlgoritmiandStructureDannih\\Progects\\Laba4\\OptimizingOperations\\OptimizingOperations\\Examples\\OrderedArray.cs",
+              "RelativeDocumentMoniker": "OptimizingOperations\\Examples\\OrderedArray.cs",
+              "ToolTip": "C:\\AlgoritmiandStructureDannih\\Progects\\Laba4\\OptimizingOperations\\OptimizingOperations\\Examples\\OrderedArray.cs",
+              "RelativeToolTip": "OptimizingOperations\\Examples\\OrderedArray.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAwHUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:29:18.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParentLongArray.cs",
+              "DocumentMoniker": "C:\\AlgoritmiandStructureDannih\\Progects\\Laba4\\OptimizingOperations\\OptimizingOperations\\Examples\\ParentLongArray.cs",
+              "RelativeDocumentMoniker": "OptimizingOperations\\Examples\\ParentLongArray.cs",
+              "ToolTip": "C:\\AlgoritmiandStructureDannih\\Progects\\Laba4\\OptimizingOperations\\OptimizingOperations\\Examples\\ParentLongArray.cs",
+              "RelativeToolTip": "OptimizingOperations\\Examples\\ParentLongArray.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAmwFwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:26:29.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayInterface.cs",
+              "DocumentMoniker": "C:\\AlgoritmiandStructureDannih\\Progects\\Laba4\\OptimizingOperations\\OptimizingOperations\\Examples\\ArrayInterface.cs",
+              "RelativeDocumentMoniker": "OptimizingOperations\\Examples\\ArrayInterface.cs",
+              "ToolTip": "C:\\AlgoritmiandStructureDannih\\Progects\\Laba4\\OptimizingOperations\\OptimizingOperations\\Examples\\ArrayInterface.cs",
+              "RelativeToolTip": "OptimizingOperations\\Examples\\ArrayInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:25:01.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\AlgoritmiandStructureDannih\\Progects\\Laba4\\OptimizingOperations\\OptimizingOperations\\Examples\\Program.cs",
+              "RelativeDocumentMoniker": "OptimizingOperations\\Examples\\Program.cs",
+              "ToolTip": "C:\\AlgoritmiandStructureDannih\\Progects\\Laba4\\OptimizingOperations\\OptimizingOperations\\Examples\\Program.cs",
+              "RelativeToolTip": "OptimizingOperations\\Examples\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:20:06.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

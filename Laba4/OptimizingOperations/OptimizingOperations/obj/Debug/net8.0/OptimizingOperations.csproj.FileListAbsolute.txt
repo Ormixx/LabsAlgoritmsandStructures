@@ -1,0 +1,14 @@
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\obj\Debug\net8.0\OptimizingOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\obj\Debug\net8.0\OptimizingOperations.AssemblyInfoInputs.cache
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\obj\Debug\net8.0\OptimizingOperations.AssemblyInfo.cs
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\obj\Debug\net8.0\OptimizingOperations.csproj.CoreCompileInputs.cache
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\bin\Debug\net8.0\OptimizingOperations.exe
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\bin\Debug\net8.0\OptimizingOperations.deps.json
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\bin\Debug\net8.0\OptimizingOperations.runtimeconfig.json
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\bin\Debug\net8.0\OptimizingOperations.dll
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\bin\Debug\net8.0\OptimizingOperations.pdb
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\obj\Debug\net8.0\OptimizingOperations.dll
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\obj\Debug\net8.0\refint\OptimizingOperations.dll
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\obj\Debug\net8.0\OptimizingOperations.pdb
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\obj\Debug\net8.0\OptimizingOperations.genruntimeconfig.cache
+C:\AlgoritmiandStructureDannih\Progects\Laba4\OptimizingOperations\OptimizingOperations\obj\Debug\net8.0\ref\OptimizingOperations.dll
