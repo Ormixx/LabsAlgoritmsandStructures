@@ -1,4 +1,5 @@
 ﻿using Sorted.Examples;
+using System.Diagnostics;
 
 public class Program
 {
@@ -57,10 +58,12 @@ public class Program
         {
             sortableArray.Insert(random.Next(10000));
         }
-
+        
+        Stopwatch stopwatch = Stopwatch.StartNew();
         int bubbleComparisons, bubbleInsertions;
         sortableArray.BubbleSort(out bubbleComparisons, out bubbleInsertions);
-        Console.WriteLine("Bubble Sort: Сравнения = " + bubbleComparisons + ", Вставки = " + bubbleInsertions);
+        stopwatch.Stop();
+        Console.WriteLine("Bubble Sort: Сравнения = " + bubbleComparisons + ", Вставки = " + bubbleInsertions + ",Время = " + stopwatch.ElapsedMilliseconds + " ms");
 
         sortableArray = new SortableLongArray(size);
         for (int i = 0; i < size; i++)
@@ -68,9 +71,11 @@ public class Program
             sortableArray.Insert(random.Next(10000));
         }
 
+        stopwatch.Restart();
         int insertionComparisons, insertionInsertions;
         sortableArray.InsertionSort(out insertionComparisons, out insertionInsertions);
-        Console.WriteLine("Insertion Sort: Сравнения = " + insertionComparisons + ", Вставки = " + insertionInsertions);
+        stopwatch.Stop();
+        Console.WriteLine("Insertion Sort: Сравнения = " + insertionComparisons + ", Вставки = " + insertionInsertions + ",Время = " + stopwatch.ElapsedMilliseconds + " ms");
 
         sortableArray = new SortableLongArray(size);
         for (int i = 0; i < size; i++)
@@ -78,9 +83,11 @@ public class Program
             sortableArray.Insert(random.Next(10000));
         }
 
+        stopwatch.Restart();
         int selectionComparisons, selectionInsertions;
         sortableArray.SelectionSort(out selectionComparisons, out selectionInsertions);
-        Console.WriteLine("Selection Sort: Сравнения = " + selectionComparisons + ", Вставки = " + selectionInsertions);
+        stopwatch.Stop();
+        Console.WriteLine("Selection Sort: Сравнения = " + selectionComparisons + ", Вставки = " + selectionInsertions + ",Время = " + stopwatch.ElapsedMilliseconds + " ms");
 
     }
 }
