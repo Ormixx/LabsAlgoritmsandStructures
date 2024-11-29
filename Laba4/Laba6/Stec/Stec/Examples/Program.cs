@@ -25,7 +25,7 @@ class Program
         Stack.Push('b');
         Stack.Push('c');
         Stack.Push('d');
-
+        // Проверка на пустой стек
         while (!Stack.IsEmpty())
         {
             char value = Stack.Pop();
@@ -33,7 +33,7 @@ class Program
         }
         Console.WriteLine();
 
-        // Проверка на пустой стек
+        
         
     }
 
@@ -53,7 +53,7 @@ class Program
         Queue.Insert(60);
         Queue.Insert(70);
         Queue.Insert(80);
-
+        // Проверка на пустую очередь
         while (!Queue.IsEmpty())
         {
             long n = Queue.Remove();
@@ -61,7 +61,7 @@ class Program
         }
         Console.WriteLine();
 
-        // Проверка на пустую очередь
+        
         
     }
 
@@ -74,7 +74,7 @@ class Program
         PQ.Insert(10);
         PQ.Insert(40);
         PQ.Insert(20);
-
+        // Проверка на пустую приоритетную очередь
         while (!PQ.IsEmpty())
         {
             long item = PQ.Remove();
